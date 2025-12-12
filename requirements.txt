@@ -1,0 +1,7 @@
+torch==2.7.0 --index-url https://download.pytorch.org/whl/cu128
+numpy
+pandas
+tqdm
+transformers
+scikit-learn
+datasets
